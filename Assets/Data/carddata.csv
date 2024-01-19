@@ -1,0 +1,55 @@
+cost,HR,steel,glass,concrete,machinery,production
+10,2,1,,,,machinery 1
+10,,1,,,1,glass 1
+10,1,2,,,,glass 1
+10,,1,1,1,,HR 1
+10,,,1,1,,machinery 1
+10,1,,,,1,concrete 1
+10,1,1,,,,concrete 1
+10,1,,,,2,steel 1
+10,,,,1,1,HR 1
+10,1,,,,2,glass 1
+10,,1,1,1,,steel 1
+10,,2,,,1,HR 1
+10,1,,,1,,machinery 1
+10,,,,1,1,glass 1
+10,,,1,,1,steel 1
+10,2,,,,1,HR 1
+10,1,,,1,,steel 1
+10,,2,,1,,concrete 1
+10,,,1,1,,concrete 1
+10,,,1,1,,machinery 1
+20,2,,1,1,,concrete 2
+20,1,,3,,,machinery 2
+20,,3,1,,,steel 2
+20,,,2,1,1,glass 2
+20,2,,1,,2,machinery 2
+20,,,1,,3,concrete 2
+20,,2,,2,,machinery 2
+20,1,,,2,1,steel 2
+20,,2,,1,1,steel 2
+20,2,2,,,,glass 2
+20,3,,,1,,HR 2
+20,2,,,1,1,HR 2
+20,,1,3,,,HR 2
+20,2,,1,,1,glass 2
+20,1,,,,2,concrete 2
+40,3,1,,2,2,HR 3
+40,,3,,2,2,concrete 3
+40,1,,1,,4,concrete 3
+40,,4,,2,1,HR 3
+40,1,,3,2,,machinery 3
+40,,,4,4,,steel 3
+40,3,,2,,2,glass 3
+40,,2,2,3,,machinery 3
+40,4,1,,,1,glass 3
+40,3,,2,2,,steel 3
+110,,,3,3,3,
+110,,3,2,,2,
+110,,2,2,,3,
+110,1,3,,3,,
+110,3,1,,,3,
+110,1,,,4,3,
+110,3,3,,2,,
+110,,2,3,3,,
+110,,,3,3,1,
